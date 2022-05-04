@@ -1,0 +1,8 @@
+name: nTNoBreak
+version: '${project.version}'
+main: n2k.ntnobreak.nTNoBreak
+api-version: 1.17
+authors: [ n2k ]
+permissions:
+  ntnobreak.break:
+    default: op
